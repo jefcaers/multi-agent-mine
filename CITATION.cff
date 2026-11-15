@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Multi-Agent Mine Planning: a counterfactual study of the Madsen failure"
+message: "If you use this software or data, please cite the accompanying book/paper."
+authors:
+  - family-names: Caers
+    given-names: Jef
+    affiliation: "Mineral-X, Stanford University"
+license: MIT
+date-released: 2026-09-23
